@@ -44,7 +44,7 @@ The questions are given below.
 1. Write a program to read two polynomials and store them in an array. Calculate the sum of the two polynomials and display the first polynomial, second polynomial and the resultant polynomial.  
 2. Write a program to enter two matrices in normal form. Write a function to convert two matrices to tuple form and display it. Also, find the transpose of the two matrices represented in tuple form and display it. Find the sum of the two matrices in tuple form and display the sum in tuple form.  
 
-**Cycle 5**
+**Cycle 5**  
 Write a menu driven program for performing the following operations on a linked list  
 1. Display  
 2. Insert at beginning  
@@ -63,7 +63,7 @@ Implement a stack using linked list with the operations:
 2. Pop  
 3. Display the contents of the stack
 
-**Cycle 8**
+**Cycle 8**  
 Implement a queue using linked lists with the following operations  
 1. Enqueue  
 2. Dequeue  
